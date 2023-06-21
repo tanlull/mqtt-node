@@ -3,3 +3,11 @@ mqtt-cli sub -h 656b17ba61d74c5088ac7748d4eb9c8a.s2.eu.hivemq.cloud  -p 8883 -t 
 
 Pub
 mqtt-cli pub -h 656b17ba61d74c5088ac7748d4eb9c8a.s2.eu.hivemq.cloud -p 8883 -t 'tan/nbiots' -s -u tanya -pw tantantan -m "hello world"
+
+
+----------------
+
+test at 
+https://www.hivemq.com/demos/websocket-client/
+host: mqtt-dashboard.com port 8884
+topic : tan/nbiots
